@@ -1,7 +1,7 @@
 # Hazel – Intelligent File Organizer and Automation Utility for macOS  
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/77/d8/ea/77d8eabf783757f1df973ae48defb42e.jpg" width="250"/>
+  <img src="https://i0.wp.com/iamsteve.in/wp-content/uploads/2015/02/hazel-hero.png?resize=412%2C259&ssl=1" width="250"/>
 </div>  
 <br>
 <div align="center">
